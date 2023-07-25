@@ -1,4 +1,4 @@
-Welcome to Business Programming(MGT 3745)! This course is for sophomore/junior undergraduate students. The main objective of this course is to provide you e basic concepts and skills of software programming and their applications to solving business problems.
+Welcome to Business Programming (MGT 3745)! This course is for sophomore/junior undergraduate students. The main objective of this course is to provide you e basic concepts and skills of software programming and their applications to solving business problems.
 
 <!---https://catalog.barnard.edu/barnard-college/courses-instruction/course-search/?term=3&level=4000%2C9999&pl=0&ph=10&college=BC--->
 
