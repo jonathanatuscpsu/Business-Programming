@@ -18,8 +18,7 @@ Welcome to Forecasting and Risk Analysis (BANA 4090)! This course is for junior/
 <!---Understanding of traditional and modern approaches to forecasting --->
 <!---Exposure to common challenges and how to overcome --->
 ## Class Information
-* Name: Zhaohu (Jonathan) Fan 
-* Title: PhD Candidate, Department of Operations, Business Analytics and Information Systems 
+* Name: Zhaohu (Jonathan) Fan, PhD
 * Office Information: LCB, Room 3327 
 * Email: fanzh@ucmail.uc.edu
 * Office Hours: Monday & Wednesday 11:00 AM to 12:00 PM and by appointment
