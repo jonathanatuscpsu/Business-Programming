@@ -3,11 +3,6 @@ Welcome to Business Programming (MGT 3745)! This course is for sophomore/junior 
 <!---https://catalog.barnard.edu/barnard-college/courses-instruction/course-search/?term=3&level=4000%2C9999&pl=0&ph=10&college=BC--->
 
 
-. 3 Credit Hours.
-
-An introduction to th
-
-
 <!---While covering core concepts like univariate and multivariate forecasting/evaluation of forecasts are critical, I believe we should also cover topics like approaching a forecasting a problem, wrangling with time series data/objects, advanced topics like neural networks for time series, hierarchical data and practical issues when approaching a problem and implementing a solution.--->
 
 
