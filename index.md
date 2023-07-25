@@ -1,6 +1,11 @@
-Welcome to Forecasting and Risk Analysis (BANA 4090)! This course is for junior/senior undergraduate students. The main objective of this course is to provide you with the proper foundation to analyze and forecast time series data in the professional setting. This means that in addition to forecasting into the future and evaluating such forecasts we will discuss other topics to prepare you for your journey as an analyst.  A survey of analytical techniques used in forecasting. Techniques include exponential smoothing, ARIMA, multiple regression and judgement-based methods.  Implementation issues and challenges are discussed.
+Welcome to Business Programming(MGT 3745)! This course is for sophomore/junior undergraduate students. The main objective of this course is to provide you e basic concepts and skills of software programming and their applications to solving business problems.
 
 <!---https://catalog.barnard.edu/barnard-college/courses-instruction/course-search/?term=3&level=4000%2C9999&pl=0&ph=10&college=BC--->
+
+
+. 3 Credit Hours.
+
+An introduction to th
 
 
 <!---While covering core concepts like univariate and multivariate forecasting/evaluation of forecasts are critical, I believe we should also cover topics like approaching a forecasting a problem, wrangling with time series data/objects, advanced topics like neural networks for time series, hierarchical data and practical issues when approaching a problem and implementing a solution.--->
