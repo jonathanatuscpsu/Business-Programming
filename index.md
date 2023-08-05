@@ -19,8 +19,8 @@ Welcome to Business Programming (MGT 3745)! This course is for sophomore/junior 
 <!---Exposure to common challenges and how to overcome --->
 ## Class Information
 * Name: Zhaohu (Jonathan) Fan, PhD
-* Office Information: LCB, Room 3327 
-* Email: zfan31@scheller.gatech.edu
+* Office Information: LCB, Room 4144 
+* Email: jonathan.fan@scheller.gatech.edu
 * Office Hours: Monday & Wednesday 11:00 AM to 12:00 PM and by appointment
  
 Communication Policy: Students are encouraged to contact me anytime via email or phone. Please use email as the primary mode of contact.  A response will be given within 36-48 hours.  Please understand that I cannot guarantee an immediate response if you contact me very close to an assignment deadline. 
