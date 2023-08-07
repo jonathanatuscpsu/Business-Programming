@@ -32,7 +32,9 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 |              | Description                                                                                     | 
 |   :----:     |      :---                                                                                       |      
 | 1.A          |  [ Introduction to Python](1A_Introduction_to_Python.html)                           |   
-
+| 1.B         |                            |   
+| 1.C          |                          |   
+| 1.D          |                          |   
 
 **Class videos, homework, and class projects are available in Canvas. Please check your homework in Canvas and submit all your homework through Canvas. All announcements are in Canvas.** 
 
