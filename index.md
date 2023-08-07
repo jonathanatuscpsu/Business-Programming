@@ -38,11 +38,24 @@ While I will try to focus on the application over the theory to maximize the abo
 
 ## Upon successfully completing this course, you will be able to: 
 * have a solid foundation for approaching time series analysis and forecasting projects in the future 
-* provide of project for portfolio 
-*	practice with R programming language as it relates to time series data 
+* provide of the project for a portfolio 
+*	Practice with R programming language as it relates to time series data 
 
 
 ## Lecture materials (slides) and code demonstrating the relevant methods.
+
+
+## Lecture and Lab Notes
+
+### Introduction to Data Mining and Python
+
+|              | Description                                                                                     | 
+|   :----:     |      :---                                                                                       |      
+| 1.A          |  [ Introduction to Python](1A_Introduction_to_Python.html)                           |   
+| 1.B          | [ Introduction to Python]()                                      |     
+| 1.C          | [ Advanced techniques: function and loop](1_C_Advanced_techniques_function_and_loop.html)       |      
+| 1.D          | [Introduction to Markdown (optional)](1_D_Introduction_to_Markdown.html)                       |  
+
 
 | Module        | Description                                                         |
 |:-------------:|:--------------------------------------------------------------------|
