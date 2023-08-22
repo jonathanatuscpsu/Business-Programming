@@ -39,7 +39,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 | Week          | Description  |
 |:-------------:|--------------|
 | **1**         | **[Introduction](Github-Teaching-Gatech-w1.html)** &nbsp;&nbsp;   |
-|               | Intro to data exploration, Python, and course outline  |
+|               | [Intro to Python](https://jonathanatuscpsu.github.io/Business-Programming/1A_Introduction_to_Python.html), and [course outline](https://colab.research.google.com/drive/1Hxai0VZ5IjsGsqcaf5MDX93yu_NLUo1X?usp=sharing)  |
 | **2**         | **Basic Python** &nbsp;&nbsp; [Link]()  |
 |               | Basic Python |
 | **3**(larbor day)| **Reproducible workflow** &nbsp;&nbsp; [Link]()  |
