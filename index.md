@@ -21,10 +21,13 @@ Students will be first grounded in the core of the Python computer programming l
 <!---Understanding of traditional and modern approaches to forecasting --->
 <!---Exposure to common challenges and how to overcome --->
 ## Class Information
-* Name: Zhaohu (Jonathan) Fan, PhD
+* Instructor: Zhaohu (Jonathan) Fan, PhD
 * Office Information: Scheller 4144 (Scheller College of Business, Room 4144) 
 * Email: jonathan.fan@scheller.gatech.edu
 * Office Hours: Tuesday 3:30-4:30 pm & Thursday 12:45-1:45 pm and by appointment
+
+* Teaching assistant: Ms.Haofei Qin 
+* Email: haofei.qin@scheller.gatech.edu
  
 Communication Policy: Students are encouraged to contact me anytime via email or phone. Please use email as the primary mode of contact.  A response will be given within 36-48 hours.  Please understand that I cannot guarantee an immediate response if you contact me very close to an assignment deadline. 
 
