@@ -34,9 +34,7 @@ Students will be first grounded in the core of the Python computer programming l
  
 Communication Policy: Students are encouraged to contact me anytime via email or phone. Please use email as the primary mode of contact.  A response will be given within 36-48 hours.  Please understand that I cannot guarantee an immediate response if you contact me very close to an assignment deadline. 
 
-## Lecture and Lab Notes
-
-## Schedule
+## Schedule (Lecture and Lab Notes)
 
 | Week          | Description  |
 |:-------------:|--------------|
