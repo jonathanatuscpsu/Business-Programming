@@ -38,7 +38,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 
 | Week          | Description  |
 |:-------------:|--------------|
-| **1**         | **Introduction** &nbsp;&nbsp; [Link](Github-Teaching-Gatech-w1.html)  |
+| **1**         | **[Introduction](Github-Teaching-Gatech-w1.html)** &nbsp;&nbsp;   |
 |               | Intro to data exploration, Python, and course outline  |
 | **2**         | **Basic Python** &nbsp;&nbsp; [Link]()  |
 |               | Basic Python |
