@@ -20,6 +20,10 @@ Students will be first grounded in the core of the Python computer programming l
 <!---Framework for approaching forecasting projects --->
 <!---Understanding of traditional and modern approaches to forecasting --->
 <!---Exposure to common challenges and how to overcome --->
+<!---https://github.com/zzz1990771/data_exp_python/blob/main/index.md?plain=1>
+<!--https://zzz1990771.github.io/data_exp_python/>
+<!--https://github.com/zzz1990771/data_exp_python/tree/main>
+
 ## Class Information
 * Instructor: Zhaohu (Jonathan) Fan, Ph.D.
 * Office Information: Scheller 4144 (Scheller College of Business, Room 4144) 
@@ -33,13 +37,47 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 
 ## Lecture and Lab Notes
 
+## Schedule
 
-|              | Description                                                                                     | 
-|   :----:     |      :---                                                                                       |      
-| 1.A          |  [ Introduction to Python](1A_Introduction_to_Python.html)                           |   
-| 1.B         |                            |   
-| 1.C          |                          |   
-| 1.D          |                          |   
+| Week          | Description  |
+|:-------------:|--------------|
+| **1**         | **Introduction** &nbsp;&nbsp; [Link](week-1)  |
+|               | Intro to data exploration, Python, and course outline  |
+| **2**         | **Basic Python** &nbsp;&nbsp; [Link]()  |
+|               | Basic Python |
+| **3**(larbor day)| **Reproducible workflow** &nbsp;&nbsp; [Link]()  |
+|               | Managing your workflow and reproducibility  
+| **4**         | **Importing Data** &nbsp;&nbsp; [Link]()  |
+|               | Importing data and understanding the basics of it |
+| **5**         | **Tidy/Clean Data** &nbsp;&nbsp; [Link]()  |
+|               | Tidying & preparing data for analysis |
+| **6**         | **Data Manipulation** &nbsp;&nbsp; [Link]()  |
+|               | Data manipulation
+| **7**         | **Relational Data and SQL** &nbsp;&nbsp; [Link]() |
+|               | Relational data |
+|               | SQL database|
+| **8**         | **Pandas** &nbsp;&nbsp; [Link]() |
+|               | Introduction to Pandas and related packages |
+|               | Data Structures in Pandas |
+| **9**         | **Pandas** &nbsp;&nbsp; [Link]() |
+|               | Leveraging the Pandas to conduct data exploration |
+| **10**        | **Data Visualizations** &nbsp;&nbsp; [Link]()  |
+|               | Data visualization basics|
+| **11**        | **Data Visualizations** &nbsp;&nbsp; [Link]()  |
+|               | Data visualization advanced|
+| **12**        | **Creating Online Dashboard** &nbsp;&nbsp; [Link]() |
+|               | Create dashboards that you can share with your colleague or client|
+| **13**        | **Efficient Coding in Python** &nbsp;&nbsp; [Link]() |
+|               | Control statements & iteration  |
+|               | Writing functions |
+| **14**        | **Explore Data with Basic Statistical Models** &nbsp;&nbsp; [Link]() |
+|               | Correlation & simple regression|
+|               | Multiple regression|
+| **15**        | **Explore Data with Basic Machine Learning** &nbsp;&nbsp; [Link]() |
+|               | Basic machine learning approaches|
+| **16**        | **Final Exams** |
+
+
 
 **Class videos, homework, and class projects are available in Canvas. Please check your homework in Canvas and submit all your homework through Canvas. All announcements are in Canvas.** 
 
