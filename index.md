@@ -38,7 +38,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 
 | Week          | Description  |
 |:-------------:|--------------|
-| **1**         | **[Introduction](Github-Teaching-Gatech-w1.html)** &nbsp;&nbsp;   |
+| **1**         | **[Introduction](Business-Programming-Lecture-1.pdf)** &nbsp;&nbsp;   |
 |               | [Intro to Python](https://jonathanatuscpsu.github.io/Business-Programming/1A_Introduction_to_Python.html), [project demo](https://colab.research.google.com/drive/1Hxai0VZ5IjsGsqcaf5MDX93yu_NLUo1X?usp=sharing),and course outline|
 | **2**         | **Basic Python** &nbsp;&nbsp; [Link]()  |
 |               | Basic Python |
