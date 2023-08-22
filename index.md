@@ -20,7 +20,7 @@ Students will be first grounded in the core of the Python computer programming l
 <!---Framework for approaching forecasting projects --->
 <!---Understanding of traditional and modern approaches to forecasting --->
 <!---Exposure to common challenges and how to overcome --->
-<!---https://github.com/zzz1990771/data_exp_python/blob/main/index.md?plain=1>
+<!---https://github.com/zzz1990771/data_exp_python/blob/main/index.md?plain=1--->
 
 
 ## Class Information
