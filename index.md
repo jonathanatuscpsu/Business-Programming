@@ -21,8 +21,7 @@ Students will be first grounded in the core of the Python computer programming l
 <!---Understanding of traditional and modern approaches to forecasting --->
 <!---Exposure to common challenges and how to overcome --->
 <!---https://github.com/zzz1990771/data_exp_python/blob/main/index.md?plain=1>
-<!--https://zzz1990771.github.io/data_exp_python/>
-<!--https://github.com/zzz1990771/data_exp_python/tree/main>
+
 
 ## Class Information
 * Instructor: Zhaohu (Jonathan) Fan, Ph.D.
