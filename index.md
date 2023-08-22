@@ -30,7 +30,6 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 
 ## Lecture and Lab Notes
 
-### Introduction to Data Mining and Python
 
 |              | Description                                                                                     | 
 |   :----:     |      :---                                                                                       |      
