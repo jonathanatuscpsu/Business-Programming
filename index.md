@@ -1,15 +1,15 @@
-Welcome to Business Programming (MGT 3745)! This is a hands-on course in which students will develop technical programming skills in the Python programming
+Welcome to Business Programming (MGT 3745)! This is a hands-on course in which students will develop technical programming skills in Python programming
 language within a business context.
 
-Students will be first grounded in the core of the Python computer programming language. Later in the semester, the course will turn to apply Python to important tasks routinely included in data science workflows, such as tasks relating to data wrangling (processing and transforming data in order to derive an informative and manageable data set).
+Students will be first grounded in the core of the Python computer programming language. Later in the semester, the course will turn to applying Python to important tasks routinely included in data science workflows, such as tasks relating to data wrangling (processing and transforming data in order to derive an informative and manageable data set).
 
 <!---https://catalog.barnard.edu/barnard-college/courses-instruction/course-search/?term=3&level=4000%2C9999&pl=0&ph=10&college=BC--->
 
 
-<!---While covering core concepts like univariate and multivariate forecasting/evaluation of forecasts are critical, I believe we should also cover topics like approaching a forecasting a problem, wrangling with time series data/objects, advanced topics like neural networks for time series, hierarchical data and practical issues when approaching a problem and implementing a solution.--->
+<!---While covering core concepts like univariate and multivariate forecasting/evaluation of forecasts is critical, I believe we should also cover topics like approaching a forecasting a problem, wrangling with time series data/objects, advanced topics like neural networks for time series, hierarchical data and practical issues when approaching a problem and implementing a solution.--->
 
 
-<!---This is a course in the analysis of time series data with emphasis on appropriate choice of models for estimation, testing, and forecasting. Topics or methodologies covered include Univariate Box-Jenkins for fitting and forecasting time series; ARIMA models, stationarity and nonstationarity; diagnosing time series models; transformations; forecasting: point and interval forecasts; seasonal time series models; modeling volatility with ARCH, GARCH; modeling time series with trends; and other methods. --->
+<!---This is a course in the analysis of time series data with emphasis on the appropriate choice of models for estimation, testing, and forecasting. Topics or methodologies covered include Univariate Box-Jenkins for fitting and forecasting time series; ARIMA models, stationarity and nonstationarity; diagnosing time series models; transformations; forecasting: point and interval forecasts; seasonal time series models; modeling volatility with ARCH, GARCH; modeling time series with trends; and other methods. --->
 
 
 
@@ -27,7 +27,7 @@ Students will be first grounded in the core of the Python computer programming l
 * Instructor: Zhaohu (Jonathan) Fan, Ph.D.
 * Office Information: Scheller 4144 (Scheller College of Business, Room 4144) 
 * Email: jonathan.fan@scheller.gatech.edu
-* Office Hours: Tuesday 3:30-4:30 pm & Thursday 12:45-1:45 pm and by appointment
+* Office Hours: Tuesdays 3:30-4:30 pm & Thursdays 12:45-1:45 pm and by appointment
 
 * Teaching assistant: Ms.Haofei Qin 
 * Email: haofei.qin@scheller.gatech.edu
