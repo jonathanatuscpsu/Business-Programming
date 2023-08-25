@@ -89,6 +89,7 @@ References:
 
 <!---must-have https://github.com/soltaniehha/Intro-to-Data-Analytics/blob/main/00-Python-Basics/01-Built-in-Scalar-Types.ipynb--->
 <!---must-have# resouce 1 https://freelearning.anaconda.cloud/jupyter-notebook-basics/46128--->
+<!---must-have# https://www.e-education.psu.edu/geog485/syllabus--->
 <!---https://github.com/learning-zone/python-basics--->
 <!--- Dan Shah, Applied Forecasting--->
 <!---Alexander K. Antony,  Forecasting methods--->
