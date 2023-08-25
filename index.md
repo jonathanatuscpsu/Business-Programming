@@ -87,6 +87,7 @@ References:
 * [Spark: The Definitive Guide, 2018](https://learning.oreilly.com/library/view/spark-the-definitive/9781491912201/) by Matei Zaharia, Bill Chambers.
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.
 
+<!---must-have https://github.com/soltaniehha/Intro-to-Data-Analytics/blob/main/00-Python-Basics/01-Built-in-Scalar-Types.ipynb--->
 <!--- Dan Shah, Applied Forecasting--->
 <!---Alexander K. Antony,  Forecasting methods--->
 
