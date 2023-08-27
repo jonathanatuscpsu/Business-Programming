@@ -87,6 +87,14 @@ References:
 * [Spark: The Definitive Guide, 2018](https://learning.oreilly.com/library/view/spark-the-definitive/9781491912201/) by Matei Zaharia, Bill Chambers.
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.
 
+Book:
+- [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/index.html) (Book)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) (Book)
+- [Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730) (Book)
+- [Effective Python](https://effectivepython.com/) (Book)
+
+
 <!---must-have https://github.com/soltaniehha/Intro-to-Data-Analytics/blob/main/00-Python-Basics/01-Built-in-Scalar-Types.ipynb--->
 <!---must-have# resouce 1 https://freelearning.anaconda.cloud/jupyter-notebook-basics/46128--->
 <!---must-have# https://www.e-education.psu.edu/geog485/syllabus--->
