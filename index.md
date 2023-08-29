@@ -77,7 +77,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 
 
 
-**Class videos, homework, and class projects are available in Canvas. Please check your homework in Canvas and submit all your homework through Canvas. All announcements are in Canvas.** 
+**Class videos, homework, and class projects are available in Canvas. Please check your homework in Canvas and submit all your homework through Canvas. All announcements are in Canvas. ** 
 
 
 References:
