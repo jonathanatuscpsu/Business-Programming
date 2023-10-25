@@ -43,7 +43,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 |               |  [Intro to Python](https://jonathanatuscpsu.github.io/Business-Programming/1A_Introduction_to_Python.html), [project demo](https://colab.research.google.com/drive/1Hxai0VZ5IjsGsqcaf5MDX93yu_NLUo1X?usp=sharing), and course outline|
 | **2**         | **[Basic Python](Business-Programming-Lecture-2.pdf)** &nbsp;&nbsp;   |
 |               | [Basic Python](Business-Programming-Lecture-3.pdf) |
-| **3**(labor day)| **[Course Project](https://jonathanatuscpsu.github.io/Business-Programming/course-project.html)**  &nbsp;&nbsp; |
+| **3**| **[Course Project](https://jonathanatuscpsu.github.io/Business-Programming/course-project.html)**  &nbsp;&nbsp; |
 |               | [Managing your workflow and reproducibility](Business-Programming-Lecture-4.pdf)   
 | **4**         | **[Importing Data](Business-Programming-Lecture-5.pdf)** &nbsp;&nbsp;   |
 |               | [Importing data and understanding the basics of it](Business-Programming-Lecture-6.pdf) |
