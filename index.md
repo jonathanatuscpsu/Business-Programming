@@ -42,23 +42,23 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 | **1**         | **[Introduction](Business-Programming-Lecture-1.pdf)** &nbsp;&nbsp;   |
 |               |  [Intro to Python](https://jonathanatuscpsu.github.io/Business-Programming/1A_Introduction_to_Python.html), [project demo](https://colab.research.google.com/drive/1Hxai0VZ5IjsGsqcaf5MDX93yu_NLUo1X?usp=sharing), and course outline|
 | **2**         | **[Basic Python](Business-Programming-Lecture-2.pdf)** &nbsp;&nbsp;   |
-|               | Basic Python |
-| **3**(larbor day)| **Reproducible workflow** &nbsp;&nbsp; [Link](https://jonathanatuscpsu.github.io/Business-Programming/course-project.html)  |
-|               | Managing your workflow and reproducibility  
-| **4**         | **Importing Data** &nbsp;&nbsp; [Link]()  |
-|               | Importing data and understanding the basics of it |
-| **5**         | **Tidy/Clean Data** &nbsp;&nbsp; [Link]()  |
-|               | Tidying & preparing data for analysis |
-| **6**         | **Data Manipulation** &nbsp;&nbsp; [Link]()  |
-|               | Data manipulation
-| **7**         | **Relational Data and SQL** &nbsp;&nbsp; [Link]() |
-|               | Relational data |
-|               | SQL database|
-| **8**         | **Pandas** &nbsp;&nbsp; [Link]() |
-|               | Introduction to Pandas and related packages |
-|               | Data Structures in Pandas |
-| **9**         | **Pandas** &nbsp;&nbsp; [Link]() |
-|               | Leveraging the Pandas to conduct data exploration |
+|               | Basic Python [Link](Business-Programming-Lecture-3.pdf) |
+| **3**(larbor day)| **Course Project** &nbsp;&nbsp; [Link](https://jonathanatuscpsu.github.io/Business-Programming/course-project.html)  |
+|               | Managing your workflow and reproducibility [Link](Business-Programming-Lecture-4.pdf)   
+| **4**         | **Importing Data** &nbsp;&nbsp; [Link](Business-Programming-Lecture-5.pdf)  |
+|               | Importing data and understanding the basics of it  [Link](Business-Programming-Lecture-6.pdf) |
+| **5**         | **Tidy/Clean Data** &nbsp;&nbsp; [Link](Business-Programming-Lecture-7.pdf)  |
+|               | Tidying & preparing data for analysis [Link](Business-Programming-Lecture-8.pdf) |
+| **6**         | **Data Manipulation** &nbsp;&nbsp; [Link](Business-Programming-Lecture-9.pdf)  |
+|               | Data manipulation [Link](Business-Programming-Lecture-10.pdf)
+| **7**         | **Relational Data and SQL** &nbsp;&nbsp; [Link](Business-Programming-Lecture-11.pdf) |
+|               | Relational data [Link](Business-Programming-Lecture-12.pdf) |
+|               | SQL database [Link](Business-Programming-Lecture-13.pdf)|
+| **8**         | **Pandas** &nbsp;&nbsp;[Link](Business-Programming-Lecture-14.pdf) |
+|               | Introduction to Pandas and related packages  [Link](Business-Programming-Lecture-15.pdf) |
+|               | Data Structures in Pandas [Link](Business-Programming-Lecture-16.pdf) |
+| **9**         | **Pandas** &nbsp;&nbsp; [Link](Business-Programming-Lecture-17.pdf) |
+|               | Leveraging the Pandas to conduct data exploration    |
 | **10**        | **Data Visualizations** &nbsp;&nbsp; [Link]()  |
 |               | Data visualization basics|
 | **11**        | **Data Visualizations** &nbsp;&nbsp; [Link]()  |
@@ -68,12 +68,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 | **13**        | **Efficient Coding in Python** &nbsp;&nbsp; [Link]() |
 |               | Control statements & iteration  |
 |               | Writing functions |
-| **14**        | **Explore Data with Basic Statistical Models** &nbsp;&nbsp; [Link]() |
-|               | Correlation & simple regression|
-|               | Multiple regression|
-| **15**        | **Explore Data with Basic Machine Learning** &nbsp;&nbsp; [Link]() |
-|               | Basic machine learning approaches|
-| **16**        | **Final Exams** |
+
 
 <!---Class videos, homework, and class projects are available in Canvas. Please check your homework in Canvas and submit all your homework through Canvas. All announcements are in Canvas.--->
 
