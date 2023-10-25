@@ -42,22 +42,22 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 | **1**         | **[Introduction](Business-Programming-Lecture-1.pdf)** &nbsp;&nbsp;   |
 |               |  [Intro to Python](https://jonathanatuscpsu.github.io/Business-Programming/1A_Introduction_to_Python.html), [project demo](https://colab.research.google.com/drive/1Hxai0VZ5IjsGsqcaf5MDX93yu_NLUo1X?usp=sharing), and course outline|
 | **2**         | **[Basic Python](Business-Programming-Lecture-2.pdf)** &nbsp;&nbsp;   |
-|               | Basic Python [Link](Business-Programming-Lecture-3.pdf) |
-| **3**(larbor day)| **Course Project** &nbsp;&nbsp; [Link](https://jonathanatuscpsu.github.io/Business-Programming/course-project.html)  |
-|               | Managing your workflow and reproducibility [Link](Business-Programming-Lecture-4.pdf)   
-| **4**         | **Importing Data** &nbsp;&nbsp; [Link](Business-Programming-Lecture-5.pdf)  |
-|               | Importing data and understanding the basics of it  [Link](Business-Programming-Lecture-6.pdf) |
-| **5**         | **Tidy/Clean Data** &nbsp;&nbsp; [Link](Business-Programming-Lecture-7.pdf)  |
-|               | Tidying & preparing data for analysis [Link](Business-Programming-Lecture-8.pdf) |
-| **6**         | **Data Manipulation** &nbsp;&nbsp; [Link](Business-Programming-Lecture-9.pdf)  |
-|               | Data manipulation [Link](Business-Programming-Lecture-10.pdf)
-| **7**         | **Relational Data and SQL** &nbsp;&nbsp; [Link](Business-Programming-Lecture-11.pdf) |
-|               | Relational data [Link](Business-Programming-Lecture-12.pdf) |
-|               | SQL database [Link](Business-Programming-Lecture-13.pdf)|
-| **8**         | **Pandas** &nbsp;&nbsp;[Link](Business-Programming-Lecture-14.pdf) |
-|               | Introduction to Pandas and related packages  [Link](Business-Programming-Lecture-15.pdf) |
-|               | Data Structures in Pandas [Link](Business-Programming-Lecture-16.pdf) |
-| **9**         | **Pandas** &nbsp;&nbsp; [Link](Business-Programming-Lecture-17.pdf) |
+|               | [Basic Python](Business-Programming-Lecture-3.pdf) |
+| **3**(larbor day)| **[Course Project**](https://jonathanatuscpsu.github.io/Business-Programming/course-project.html)  &nbsp;&nbsp; |
+|               | [Managing your workflow and reproducibility](Business-Programming-Lecture-4.pdf)   
+| **4**         | **[Importing Data](Business-Programming-Lecture-5.pdf)** &nbsp;&nbsp;   |
+|               | [Importing data and understanding the basics of it](Business-Programming-Lecture-6.pdf) |
+| **5**         | **[Tidy/Clean Data](Business-Programming-Lecture-7.pdf) ** &nbsp;&nbsp;  |
+|               | [Tidying & preparing data for analysis](Business-Programming-Lecture-8.pdf) |
+| **6**         | **[Data ManipulationLink](Business-Programming-Lecture-9.pdf)** &nbsp;&nbsp;   |
+|               | [Data manipulation](Business-Programming-Lecture-10.pdf)
+| **7**         | **[Relational Data and SQL](Business-Programming-Lecture-11.pdf)** &nbsp;&nbsp;  |
+|               | [Relational dataLink](Business-Programming-Lecture-12.pdf) |
+|               | [SQL database](Business-Programming-Lecture-13.pdf)|
+| **8**         | **[Pandas](Business-Programming-Lecture-14.pdf)** &nbsp;&nbsp; |
+|               | [Introduction to Pandas and related packages](Business-Programming-Lecture-15.pdf) |
+|               | [Data Structures in Pandas](Business-Programming-Lecture-16.pdf) |
+| **9**         | **[Pandas](Business-Programming-Lecture-17.pdf)** &nbsp;&nbsp;  |
 |               | Leveraging the Pandas to conduct data exploration    |
 | **10**        | **Data Visualizations** &nbsp;&nbsp; [Link]()  |
 |               | Data visualization basics|
