@@ -47,7 +47,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 |               | [Managing your workflow and reproducibility](Business-Programming-Lecture-4.pdf)   
 | **4**         | **[Importing Data](Business-Programming-Lecture-5.pdf)** &nbsp;&nbsp;   |
 |               | [Importing data and understanding the basics of it](Business-Programming-Lecture-6.pdf) |
-| **5**         | **[Tidy/Clean Data](Business-Programming-Lecture-7.pdf) ** &nbsp;&nbsp;  |
+| **5**         | **[Tidy/Clean Data](Business-Programming-Lecture-7.pdf)** &nbsp;&nbsp;  |
 |               | [Tidying & preparing data for analysis](Business-Programming-Lecture-8.pdf) |
 | **6**         | **[Data ManipulationLink](Business-Programming-Lecture-9.pdf)** &nbsp;&nbsp;   |
 |               | [Data manipulation](Business-Programming-Lecture-10.pdf)
