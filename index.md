@@ -49,7 +49,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 |               | [Importing data and understanding the basics of it](Business-Programming-Lecture-6.pdf) |
 | **5**         | **[Tidy/Clean Data](Business-Programming-Lecture-7.pdf)** &nbsp;&nbsp;  |
 |               | [Tidying & preparing data for analysis](Business-Programming-Lecture-8.pdf) |
-| **6**         | **[Data ManipulationLink](Business-Programming-Lecture-9.pdf)** &nbsp;&nbsp;   |
+| **6**         | **[Data Manipulation](Business-Programming-Lecture-9.pdf)** &nbsp;&nbsp;   |
 |               | [Data manipulation](Business-Programming-Lecture-10.pdf)
 | **7**         | **[Relational Data and SQL](Business-Programming-Lecture-11.pdf)** &nbsp;&nbsp;  |
 |               | [Relational dataLink](Business-Programming-Lecture-12.pdf) |
