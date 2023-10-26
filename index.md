@@ -50,9 +50,9 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 | **5**         | **[Crafting Modular Python: The Art and Science of Function Design](Business-Programming-Lecture-7.pdf)** &nbsp;&nbsp;  |
 |               | [Navigating Time and Date in Python: From Basic Timestamps to Advanced Time Zone Manipulations](Business-Programming-Lecture-8.pdf) |
 | **6**         | **[Deciphering Text Patterns with Python: Demystifying Regular Expressions](Business-Programming-Lecture-9.pdf)** &nbsp;&nbsp;   |
-|               | [Data manipulation](Business-Programming-Lecture-10.pdf)
-| **7**         | **[Relational Data and SQL](Business-Programming-Lecture-11.pdf)** &nbsp;&nbsp;  |
-|               | [Relational dataLink](Business-Programming-Lecture-12.pdf) |
+|               | [Deciphering Text Patterns with Python: Demystifying Regular Expressions-II](Business-Programming-Lecture-10.pdf)
+| **7**         | **[Deciphering Text Patterns with Python: Demystifying Regular Expressions-III](Business-Programming-Lecture-11.pdf)** &nbsp;&nbsp;  |
+|               | [Harnessing Python's Core Collections: Dive Deep into Lists and Dictionaries](Business-Programming-Lecture-12.pdf) |
 |               | [SQL database](Business-Programming-Lecture-13.pdf)|
 | **8**         | **[Pandas](Business-Programming-Lecture-14.pdf)** &nbsp;&nbsp; |
 |               | [Introduction to Pandas and related packages](Business-Programming-Lecture-15.pdf) |
