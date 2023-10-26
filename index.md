@@ -44,8 +44,8 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 | **2**         | **[Basic Python](Business-Programming-Lecture-2.pdf)** &nbsp;&nbsp;   |
 |               | [Basic Python](Business-Programming-Lecture-3.pdf) |
 | **3**| **[Course Project](https://jonathanatuscpsu.github.io/Business-Programming/course-project.html)**  &nbsp;&nbsp; |
-|               | [Managing your workflow and reproducibility](Business-Programming-Lecture-4.pdf)   
-| **4**         | **[Importing Data](Business-Programming-Lecture-5.pdf)** &nbsp;&nbsp;   |
+|               | [Mastering Python's Built-in Debugging Tools: From Basic Syntax Errors to Advanced Exception Handling](Business-Programming-Lecture-4.pdf)   
+| **4**         | **[Navigating Python's Control Flow: Crafting Logic with Conditionals and Loops](Business-Programming-Lecture-5.pdf)** &nbsp;&nbsp;   |
 |               | [Importing data and understanding the basics of it](Business-Programming-Lecture-6.pdf) |
 | **5**         | **[Tidy/Clean Data](Business-Programming-Lecture-7.pdf)** &nbsp;&nbsp;  |
 |               | [Tidying & preparing data for analysis](Business-Programming-Lecture-8.pdf) |
@@ -66,7 +66,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 | **12**        | **Creating Online Dashboard** &nbsp;&nbsp; [Link]() |
 |               | Create dashboards that you can share with your colleague or client|
 | **13**        | **Efficient Coding in Python** &nbsp;&nbsp; [Link]() |
-|               | Control statements & iteration  |
+|               |   |
 |               | Writing functions |
 
 
