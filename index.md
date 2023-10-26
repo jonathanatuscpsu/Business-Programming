@@ -54,7 +54,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 | **7**         | **[Deciphering Text Patterns with Python: Demystifying Regular Expressions-III](Business-Programming-Lecture-11.pdf)** &nbsp;&nbsp;  |
 |               | [Harnessing Python's Core Collections: Dive Deep into Lists and Dictionaries](Business-Programming-Lecture-12.pdf) |
 |               | [Harnessing Python's Core Collections: Dive Deep into Lists and Dictionaries-II](Business-Programming-Lecture-13.pdf)|
-| **8**         | **[Harnessing Python's Core Collections: Dive Deep into Lists and Dictionaries-II](Business-Programming-Lecture-14.pdf)** &nbsp;&nbsp; |
+| **8**         | **[Harnessing Python's Core Collections: Dive Deep into Lists and Dictionaries-III](Business-Programming-Lecture-14.pdf)** &nbsp;&nbsp; |
 |               | [Object-Oriented Python: Unraveling the Power of Classes and Objects](Business-Programming-Lecture-15.pdf) |
 |               | [Midterm Preparation Guide](Business-Programming-Lecture-16.pdf) |
 | **9**         | **[Introduction to Course Project](Business-Programming-Lecture-17.pdf)** &nbsp;&nbsp;  |
