@@ -46,9 +46,9 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 | **3**| **[Course Project](https://jonathanatuscpsu.github.io/Business-Programming/course-project.html)**  &nbsp;&nbsp; |
 |               | [Mastering Python's Built-in Debugging Tools: From Basic Syntax Errors to Advanced Exception Handling](Business-Programming-Lecture-4.pdf)   
 | **4**         | **[Navigating Python's Control Flow: Crafting Logic with Conditionals and Loops](Business-Programming-Lecture-5.pdf)** &nbsp;&nbsp;   |
-|               | [Importing data and understanding the basics of it](Business-Programming-Lecture-6.pdf) |
-| **5**         | **[Tidy/Clean Data](Business-Programming-Lecture-7.pdf)** &nbsp;&nbsp;  |
-|               | [Tidying & preparing data for analysis](Business-Programming-Lecture-8.pdf) |
+|               | [Mastering Lists in Python](Business-Programming-Lecture-6.pdf) |
+| **5**         | **[Crafting Modular Python: The Art and Science of Function Design](Business-Programming-Lecture-7.pdf)** &nbsp;&nbsp;  |
+|               | [Navigating Time and Date in Python: From Basic Timestamps to Advanced Time Zone Manipulations](Business-Programming-Lecture-8.pdf) |
 | **6**         | **[Data Manipulation](Business-Programming-Lecture-9.pdf)** &nbsp;&nbsp;   |
 |               | [Data manipulation](Business-Programming-Lecture-10.pdf)
 | **7**         | **[Relational Data and SQL](Business-Programming-Lecture-11.pdf)** &nbsp;&nbsp;  |
@@ -67,7 +67,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 |               | Create dashboards that you can share with your colleague or client|
 | **13**        | **Efficient Coding in Python** &nbsp;&nbsp; [Link]() |
 |               |   |
-|               | Writing functions |
+|               | |
 
 
 <!---Class videos, homework, and class projects are available in Canvas. Please check your homework in Canvas and submit all your homework through Canvas. All announcements are in Canvas.--->
