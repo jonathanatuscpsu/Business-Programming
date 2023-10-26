@@ -53,11 +53,11 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 |               | [Deciphering Text Patterns with Python: Demystifying Regular Expressions-II](Business-Programming-Lecture-10.pdf)
 | **7**         | **[Deciphering Text Patterns with Python: Demystifying Regular Expressions-III](Business-Programming-Lecture-11.pdf)** &nbsp;&nbsp;  |
 |               | [Harnessing Python's Core Collections: Dive Deep into Lists and Dictionaries](Business-Programming-Lecture-12.pdf) |
-|               | [SQL database](Business-Programming-Lecture-13.pdf)|
-| **8**         | **[Pandas](Business-Programming-Lecture-14.pdf)** &nbsp;&nbsp; |
-|               | [Introduction to Pandas and related packages](Business-Programming-Lecture-15.pdf) |
-|               | [Data Structures in Pandas](Business-Programming-Lecture-16.pdf) |
-| **9**         | **[Pandas](Business-Programming-Lecture-17.pdf)** &nbsp;&nbsp;  |
+|               | [Harnessing Python's Core Collections: Dive Deep into Lists and Dictionaries-II](Business-Programming-Lecture-13.pdf)|
+| **8**         | **[Harnessing Python's Core Collections: Dive Deep into Lists and Dictionaries-II](Business-Programming-Lecture-14.pdf)** &nbsp;&nbsp; |
+|               | [Object-Oriented Python: Unraveling the Power of Classes and Objects](Business-Programming-Lecture-15.pdf) |
+|               | [Midterm Preparation Guide](Business-Programming-Lecture-16.pdf) |
+| **9**         | **[Introduction to Course Project](Business-Programming-Lecture-17.pdf)** &nbsp;&nbsp;  |
 |               | Leveraging the Pandas to conduct data exploration    |
 | **10**        | **Data Visualizations** &nbsp;&nbsp; [Link]()  |
 |               | Data visualization basics|
