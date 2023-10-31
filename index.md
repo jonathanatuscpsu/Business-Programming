@@ -6,7 +6,7 @@ Students will be first grounded in the core of the Python computer programming l
 <!---https://catalog.barnard.edu/barnard-college/courses-instruction/course-search/?term=3&level=4000%2C9999&pl=0&ph=10&college=BC--->
 
 
-<!---While covering core concepts like univariate and multivariate forecasting/evaluation of forecasts is critical, I believe we should also cover topics like approaching a forecasting a problem, wrangling with time series data/objects, advanced topics like neural networks for time series, hierarchical data and practical issues when approaching a problem and implementing a solution.--->
+<!---While covering core concepts like univariate and multivariate forecasting/evaluation of forecasts is critical, I believe we should also cover topics like approaching a forecasting a problem, wrangling with time series data/objects, advanced topics like neural networks for time series, hierarchical data, and practical issues when approaching a problem and implementing a solution.--->
 
 
 <!---This is a course in the analysis of time series data with emphasis on the appropriate choice of models for estimation, testing, and forecasting. Topics or methodologies covered include Univariate Box-Jenkins for fitting and forecasting time series; ARIMA models, stationarity and nonstationarity; diagnosing time series models; transformations; forecasting: point and interval forecasts; seasonal time series models; modeling volatility with ARCH, GARCH; modeling time series with trends; and other methods. --->
@@ -35,7 +35,7 @@ Students will be first grounded in the core of the Python computer programming l
  
 Communication Policy: Students are encouraged to contact me anytime via email or phone. Please use email as the primary mode of contact.  A response will be given within 36-48 hours.  Please understand that I cannot guarantee an immediate response if you contact me very close to an assignment deadline. 
 
- * Cohort from 2023 Fall [Link]() 
+ * [Cohort from 2023 Fall]() 
 
 ## Schedule (Lecture and Lab Notes)
 
