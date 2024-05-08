@@ -35,7 +35,7 @@ Students will be first grounded in the core of the Python computer programming l
  
 Communication Policy: Students are encouraged to contact me anytime via email or phone. Please use email as the primary mode of contact.  A response will be given within 36-48 hours.  Please understand that I cannot guarantee an immediate response if you contact me very close to an assignment deadline. 
 
- * [Cohort from 2023 Fall]()
+ * [Cohort from 2023 Fall](https://github.com/jonathanatuscpsu/Business-Programming/blob/main/Casey-Murphy-MGT-3745-Hotel-Cancellations.pdf)
  * [Course Project](https://jonathanatuscpsu.github.io/Business-Programming/course-project.html)
 
 ## Schedule (Lecture and Lab Notes)
