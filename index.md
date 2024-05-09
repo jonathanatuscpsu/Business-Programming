@@ -101,7 +101,7 @@ Book:
 - [Effective Python](https://effectivepython.com/) (Book)
 
 Others:
-- [Make an interactive Power BI dashboard from scratch in 15 minutes.](https://jakevdp.github.io/WhirlwindTourOfPython/index.tml) (Power BI for Business Analytics)
+- [Make an interactive Power BI dashboard from scratch in 15 minutes.](https://www.youtube.com/watch?v=NISsW-bVAwU) (Power BI for Business Analytics)
 
 <!---must-have https://github.com/soltaniehha/Intro-to-Data-Analytics/blob/main/00-Python-Basics/01-Built-in-Scalar-Types.ipynb--->
 <!---must-have# resouce 1 https://freelearning.anaconda.cloud/jupyter-notebook-basics/46128--->
