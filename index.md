@@ -35,12 +35,19 @@ Students will be first grounded in the core of the Python computer programming l
  
 Communication Policy: Students are encouraged to contact me anytime via email or phone. Please use email as the primary mode of contact.  A response will be given within 36-48 hours.  Please understand that I cannot guarantee an immediate response if you contact me very close to an assignment deadline. 
 
+ * [Course Project](https://jonathanatuscpsu.github.io/Business-Programming/course-project.html)
+
+
  * [Cohort from 2023 Fall](https://github.com/jonathanatuscpsu/Business-Programming)
       * Hotel Bookings Data
         *  [Casey Murphy](https://jonathanatuscpsu.github.io/Business-Programming/Casey-Murphy-MGT-3745-Hotel-Cancellations.pdf)
         *  [Elaine Wen](https://jonathanatuscpsu.github.io/Business-Programming/Elaine-Wen-MGT-3745-Final-Project.pdf)
+      * Petfinder.com Dog Data
+      * NFL Attendance Data
+      * Spotify Genre Data
 
- * [Course Project](https://jonathanatuscpsu.github.io/Business-Programming/course-project.html)
+
+
 
 ## Schedule (Lecture and Lab Notes)
 
