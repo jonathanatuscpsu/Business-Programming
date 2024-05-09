@@ -37,8 +37,9 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 
  * [Cohort from 2023 Fall](https://github.com/jonathanatuscpsu/Business-Programming)
       * Hotel Bookings Data
-          *
-          * 
+        *  [Casey Murphy](https://jonathanatuscpsu.github.io/Business-Programming/Casey-Murphy-MGT-3745-Hotel-Cancellations.pdf)
+        *  [Elaine Wen](https://jonathanatuscpsu.github.io/Business-Programming/Elaine-Wen-MGT-3745-Final-Project.pdf)
+
  * [Course Project](https://jonathanatuscpsu.github.io/Business-Programming/course-project.html)
 
 ## Schedule (Lecture and Lab Notes)
