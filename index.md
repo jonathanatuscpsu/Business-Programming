@@ -40,12 +40,12 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 
  * Cohort from 2023 Fall
     * [Course Project](https://jonathanatuscpsu.github.io/Business-Programming/course-project.html) 
-       * Hotel Bookings Data
+       * Hotel Bookings Data Analysis
          *  [Casey Murphy](https://jonathanatuscpsu.github.io/Business-Programming/Casey-Murphy-MGT-3745-Hotel-Cancellations.pdf)
          *  [Elaine Wen](https://jonathanatuscpsu.github.io/Business-Programming/Elaine-Wen-MGT-3745-Final-Project.pdf)
-      * Petfinder.com Dog Data
-      * NFL Attendance Data
-      * Spotify Genre Data
+      * Petfinder.com Dog Data Analysis
+      * NFL Attendance Data Analysis
+      * Spotify Genre Data Analysis
 
 
 
