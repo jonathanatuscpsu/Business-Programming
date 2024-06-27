@@ -1,4 +1,5 @@
-Welcome to Business Programming (MGT 3745)! This is a hands-on course in which students will develop technical programming skills in Python programming
+## Welcome to Business Programming (MGT 3745)! 
+This is a hands-on course in which students will develop technical programming skills in Python programming
 language within a business context.
 
 Students will be first grounded in the core of the Python computer programming language. Later in the semester, the course will turn to apply Python to important tasks routinely included in data science workflows, such as tasks relating to data wrangling (processing and transforming data in order to derive an informative and manageable data set).
