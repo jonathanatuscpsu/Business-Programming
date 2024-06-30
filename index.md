@@ -1,4 +1,3 @@
-## Welcome to Business Programming (MGT 3745)! 
 This is a hands-on course in which students will develop technical programming skills in Python programming
 language within a business context.
 
