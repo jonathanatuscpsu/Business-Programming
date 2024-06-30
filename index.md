@@ -51,9 +51,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
          *  [Kevin Dong](https://jonathanatuscpsu.github.io/Business-Programming/Kevin-MGT%203745-Spotify.pdf)
          *  [Nekha Duraisamy and Geethika Thota](https://jonathanatuscpsu.github.io/Business-Programming/Nekha-Duraisamy-Geethika-Thota-Spotify-MGT3745-Final-Project.pdf)
       * Crime Analytics & Intelligence
-         *  [Casey Murphy](https://jonathanatuscpsu.github.io/Business-Programming/Casey-Murphy-MGT-3745-Hotel-Cancellations.pdf)
-         *  [Elaine Wen](https://jonathanatuscpsu.github.io/Business-Programming/Elaine-Wen-MGT-3745-Final-Project.pdf)
-
+         *  [Casey Murphy](https://jonathanatuscpsu.github.io/Business-Programming/Jason-Warner-MGT-3745-final-project.pdf)
 
 
 
