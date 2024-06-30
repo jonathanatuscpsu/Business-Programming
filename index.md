@@ -50,7 +50,6 @@ Communication Policy: Students are encouraged to contact me anytime via email or
       * Spotify Genre Data Analysis
          *  [Kevin Dong](https://jonathanatuscpsu.github.io/Business-Programming/Kevin-MGT%203745-Spotify.pdf)
          *  [Nekha Duraisamy and Geethika Thota](https://jonathanatuscpsu.github.io/Business-Programming/Nekha-Duraisamy-Geethika-Thota-Spotify-MGT3745-Final-Project.pdf)
-         *  [Brianna Jade Abreu and Maria Kraft](https://jonathanatuscpsu.github.io/Business-Programming/Bri-Abreu-Maria-Kraft-MGT-3745-final-project.pdf)
       * Crime Analytics & Intelligence
          *  [Casey Murphy](https://jonathanatuscpsu.github.io/Business-Programming/Casey-Murphy-MGT-3745-Hotel-Cancellations.pdf)
          *  [Elaine Wen](https://jonathanatuscpsu.github.io/Business-Programming/Elaine-Wen-MGT-3745-Final-Project.pdf)
