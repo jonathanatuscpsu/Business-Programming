@@ -56,7 +56,7 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 
 | Week          | Description  |
 |:-------------:|--------------|
-| **1**         | **[Introduction](Business-Programming-Lecture-1.pdf)** &nbsp;&nbsp;   |
+| **1**         | **[Introduction to Course Project](https://jonathanatuscpsu.github.io/business-practicum/Business%20Analytics%20Practicum%20(MGT%204803)-Week1-Thursday.pdf)** &nbsp;&nbsp; |
 |               |  [Intro to Python](https://jonathanatuscpsu.github.io/Business-Programming/1A_Introduction_to_Python.html), [project demo](https://colab.research.google.com/drive/1Hxai0VZ5IjsGsqcaf5MDX93yu_NLUo1X?usp=sharing), and course outline|
 | **2**         | **[Basic Python](Business-Programming-Lecture-2.pdf)** &nbsp;&nbsp;   |
 |               | [Basic Python](Business-Programming-Lecture-3.pdf) |
@@ -87,6 +87,10 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 |               | |
 
 
+
+
+
+
 <!---Class videos, homework, and class projects are available in Canvas. Please check your homework in Canvas and submit all your homework through Canvas. All announcements are in Canvas.--->
 
 References:
@@ -97,11 +101,11 @@ References:
 * [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.
 
 Book:
-- [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/index.html) (Book)
+- [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/index.html) 
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) (Book)
-- [Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730) (Book)
-- [Effective Python](https://effectivepython.com/) (Book)
+- [Python Tricks](https://www.amazon.com/Python-Tricks-Buffet-Awesome-Features/dp/1775093301) 
+- [Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730)
+- [Effective Python](https://effectivepython.com/) 
 
 Others:
 - [Make an interactive Power BI dashboard from scratch in 15 minutes.](https://www.youtube.com/watch?v=NISsW-bVAwU) (Power BI for Business Analytics)
