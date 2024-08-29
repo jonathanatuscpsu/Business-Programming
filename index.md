@@ -76,13 +76,13 @@ Communication Policy: Students are encouraged to contact me anytime via email or
 |               | [Midterm Preparation Guide](Business-Programming-Lecture-16.pdf) |
 | **9**         | **[Introduction to Course Project](Business-Programming-Lecture-17.pdf)** &nbsp;&nbsp;  |
 |               | Leveraging the Pandas to conduct data exploration    |
-| **10**        | **Data Visualizations** &nbsp;&nbsp; [Link]()  |
+| **10**        | **Data Visualizations** &nbsp;&nbsp;  |
 |               | Data visualization basics|
-| **11**        | **Data Visualizations** &nbsp;&nbsp; [Link]()  |
+| **11**        | **Data Visualizations** &nbsp;&nbsp;  |
 |               | Data visualization advanced|
-| **12**        | **Creating Online Dashboard** &nbsp;&nbsp; [Link]() |
+| **12**        | **Creating Online Dashboard** &nbsp;&nbsp;  |
 |               | Create dashboards that you can share with your colleague or client|
-| **13**        | **Efficient Coding in Python** &nbsp;&nbsp; [Link]() |
+| **13**        | **Efficient Coding in Python** &nbsp;&nbsp; |
 |               |   |
 |               | |
 
