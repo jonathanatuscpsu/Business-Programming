@@ -1,7 +1,6 @@
-This is a hands-on course in which students will develop technical programming skills in Python programming
-language within a business context.
+Welcome to our hands-on Python programming course, designed specifically for the business world! In this course, we'll start by diving into the basics of Python, using the user-friendly Google Colab platform. Don’t worry if you’re new to programming— we’ll guide you step by step.
 
-Students will be first grounded in the core of the Python computer programming language. Later in the semester, the course will turn to apply Python to important tasks routinely included in data science workflows, such as tasks relating to data wrangling (processing and transforming data in order to derive an informative and manageable data set).
+As the semester unfolds, we’ll explore how Python can be a powerful tool in data science. You’ll learn to wrangle and transform data, turning complex information into insights that are not just useful but also easy to manage and understand. Get ready to tackle real-world tasks and boost your ability to make smart business decisions with your new programming skills!
 
 <!---https://catalog.barnard.edu/barnard-college/courses-instruction/course-search/?term=3&level=4000%2C9999&pl=0&ph=10&college=BC--->
 <!---While covering core concepts like univariate and multivariate forecasting/evaluation of forecasts is critical, I believe we should also cover topics like approaching a forecasting a problem, wrangling with time series data/objects, advanced topics like neural networks for time series, hierarchical data, and practical issues when approaching a problem and implementing a solution.--->
