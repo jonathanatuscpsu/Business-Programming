@@ -115,3 +115,6 @@ Others:
 <!--- Dan Shah, Applied Forecasting--->
 <!---Alexander K. Antony,  Forecasting methods--->
 
+---
+
+*Go Jackets! 🐝*
