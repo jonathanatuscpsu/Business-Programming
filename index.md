@@ -21,7 +21,7 @@ As the semester unfolds, we’ll explore how Python can be a powerful tool in da
 
 
 ## Class Information
-* Instructor: Zhaohu (Jonathan) Fan, Ph.D.
+* Instructor: [Zhaohu (Jonathan) Fan](https://www.scheller.gatech.edu/directory/faculty/fan/index.html), Ph.D.
 * Office Information: Scheller 4144 (Scheller College of Business, Room 4144) 
 * Email: jonathan.fan@scheller.gatech.edu
 * Office Hours: Tuesdays 3:30-4:30 pm & Thursdays 12:45-1:45 pm and by appointment
