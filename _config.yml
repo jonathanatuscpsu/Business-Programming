@@ -1,9 +1,12 @@
 title: "Welcome to Business Programming (MGT 3745)!"
+
 theme: jekyll-theme-minimal
 
 description: >
-Life is short (You need Python) - Bruce Eckel
+  Life is short (You need Python) - Bruce Eckel
+
 logo: "https://github.com/jonathanatuscpsu/DM-python/raw/gh-pages/DM.jpg"
+
 show_downloads: false
 
 github:
