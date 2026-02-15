@@ -1,1 +1,33 @@
+<!-- Load color mode JS early -->
+<script>
+  window.__COLOR_MODE_DEFAULT__ = "{{ site.color_mode.default | default: 'auto' }}";
+</script>
+<script src="{{ '/color-mode.js' | relative_url }}"></script>
+
+{% if site.color_mode.toggle %}
+<button id="color-mode-toggle" class="color-mode-toggle" type="button" aria-label="Toggle color mode">
+  Toggle theme
+</button>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const btn = document.getElementById("color-mode-toggle");
+    if (!btn || !window.__colorMode) return;
+
+    const label = () => {
+      const mode = window.__colorMode.getMode();
+      btn.textContent = (mode === "dark") ? "Dark" : (mode === "light") ? "Light" : "Auto";
+    };
+
+    btn.addEventListener("click", () => {
+      const cur = window.__colorMode.getMode();
+      const next = (cur === "light") ? "dark" : (cur === "dark") ? "auto" : "light";
+      window.__colorMode.setMode(next);
+      label();
+    });
+
+    label();
+  });
+</script>
+{% endif %}
 
