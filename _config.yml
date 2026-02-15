@@ -11,3 +11,10 @@ show_downloads: false
 
 github:
   is_project_page: false
+
+color_mode:
+  default: auto   # auto | light | dark
+  toggle: true
+
+sass:
+  style: compressed
