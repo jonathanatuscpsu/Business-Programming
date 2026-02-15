@@ -1,1 +1,36 @@
+{% if site.color_mode %}
+<script>
+  window.__COLOR_MODE_DEFAULT__ = "{{ site.color_mode.default | default: 'auto' }}";
+</script>
+{% endif %}
+
+{% if site.color_mode.toggle %}
+<script src="{{ '/assets/js/color-mode.js' | relative_url }}"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const btn = document.createElement("button");
+    btn.className = "color-mode-toggle";
+    btn.type = "button";
+
+    const order = ["auto", "light", "dark"];
+    const pretty = (m) => m.charAt(0).toUpperCase() + m.slice(1);
+
+    function render() {
+      const mode = window.__colorMode?.getMode?.() || "auto";
+      btn.textContent = "Mode: " + pretty(mode);
+    }
+
+    btn.addEventListener("click", () => {
+      const current = window.__colorMode.getMode();
+      const next = order[(order.indexOf(current) + 1) % order.length];
+      window.__colorMode.setMode(next);
+      render();
+    });
+
+    // Put the button near the top of the page
+    document.body.appendChild(btn);
+    render();
+  });
+</script>
+{% endif %}
 
