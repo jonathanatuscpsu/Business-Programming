@@ -1,12 +1,8 @@
 title: "Welcome to Business Programming (MGT 3745)!"
-
 theme: jekyll-theme-minimal
-
 description: >
   Life is short (You need Python) - Bruce Eckel
-
 logo: "https://raw.githubusercontent.com/jonathanatuscpsu/Business-Programming/main/Python_66.png"
-
 show_downloads: false
 
 github:
@@ -15,6 +11,3 @@ github:
 color_mode:
   default: auto   # auto | light | dark
   toggle: true
-
-sass:
-  style: compressed
