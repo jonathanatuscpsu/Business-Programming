@@ -1,32 +1,55 @@
-<!-- Load color mode JS early (avoid flash of wrong theme) -->
-<script>
-  window.__COLOR_MODE_DEFAULT__ = "{{ site.color_mode.default | default: 'auto' }}";
-</script>
-<script src="{{ '/color-mode.js' | relative_url }}"></script>
-
 {% if site.color_mode.toggle %}
-<button id="color-mode-toggle" class="color-mode-toggle" type="button" aria-label="Toggle color mode">
-  Toggle theme
-</button>
+  <script>
+    window.__COLOR_MODE_DEFAULT__ = "{{ site.color_mode.default | default: 'auto' }}";
+  </script>
 
-<script>
-  document.addEventListener("DOMContentLoaded", () => {
-    const btn = document.getElementById("color-mode-toggle");
-    if (!btn || !window.__colorMode) return;
+  <!-- Load the theme engine -->
+  <script src="{{ '/assets/js/color-mode.js' | relative_url }}" defer></script>
 
-    const render = () => {
-      const mode = window.__colorMode.getMode();
-      btn.textContent = (mode === "dark") ? "Dark" : (mode === "light") ? "Light" : "Auto";
-    };
+  <!-- Create (or wire) the Auto/Light/Dark control -->
+  <script defer>
+    (function () {
+      function ready(fn) {
+        if (document.readyState !== "loading") fn();
+        else document.addEventListener("DOMContentLoaded", fn);
+      }
 
-    btn.addEventListener("click", () => {
-      const cur = window.__colorMode.getMode();
-      const next = (cur === "light") ? "dark" : (cur === "dark") ? "auto" : "light";
-      window.__colorMode.setMode(next);
-      render();
-    });
+      ready(function () {
+        // If the JS didn't load for some reason, fail silently.
+        if (!window.__colorMode) return;
 
-    render();
-  });
-</script>
+        // Reuse an existing toggle if you already have one on the page.
+        var host = document.querySelector(".color-mode-toggle");
+
+        // If you have a button already but it isn't a <select>, we still create a robust dropdown.
+        if (!host || !host.querySelector("select")) {
+          if (!host) {
+            host = document.createElement("div");
+            host.className = "color-mode-toggle";
+            document.body.appendChild(host);
+          }
+          host.innerHTML =
+            'Theme: ' +
+            '<select aria-label="Theme">' +
+            '  <option value="auto">Auto</option>' +
+            '  <option value="light">Light</option>' +
+            '  <option value="dark">Dark</option>' +
+            '</select>';
+        }
+
+        var select = host.querySelector("select");
+        var sync = function () { select.value = window.__colorMode.getMode(); };
+
+        sync();
+        select.addEventListener("change", function (e) {
+          window.__colorMode.setMode(e.target.value);
+        });
+
+        // Keep in sync if something else changes it (another tab, etc.)
+        window.addEventListener("storage", function (e) {
+          if (e.key === "color-mode") sync();
+        });
+      });
+    })();
+  </script>
 {% endif %}
