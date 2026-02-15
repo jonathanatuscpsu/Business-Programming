@@ -1,4 +1,4 @@
-<!-- Load color mode JS early -->
+<!-- Load color mode JS early (avoid flash of wrong theme) -->
 <script>
   window.__COLOR_MODE_DEFAULT__ = "{{ site.color_mode.default | default: 'auto' }}";
 </script>
@@ -14,7 +14,7 @@
     const btn = document.getElementById("color-mode-toggle");
     if (!btn || !window.__colorMode) return;
 
-    const label = () => {
+    const render = () => {
       const mode = window.__colorMode.getMode();
       btn.textContent = (mode === "dark") ? "Dark" : (mode === "light") ? "Light" : "Auto";
     };
@@ -23,11 +23,10 @@
       const cur = window.__colorMode.getMode();
       const next = (cur === "light") ? "dark" : (cur === "dark") ? "auto" : "light";
       window.__colorMode.setMode(next);
-      label();
+      render();
     });
 
-    label();
+    render();
   });
 </script>
 {% endif %}
-
