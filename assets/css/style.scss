@@ -1,44 +1,51 @@
-(function () {
-  const storageKey = "color-mode";
-  const root = document.documentElement;
+---
+---
 
-  function prefersDark() {
-    return window.matchMedia &&
-      window.matchMedia("(prefers-color-scheme: dark)").matches;
-  }
+@import "{{ site.theme }}";
 
-  function apply(mode) {
-    if (mode === "dark") root.setAttribute("data-theme", "dark");
-    else if (mode === "light") root.setAttribute("data-theme", "light");
-    else root.setAttribute("data-theme", prefersDark() ? "dark" : "light"); // auto
-  }
+/* Light defaults */
+:root {
+  --bg: #ffffff;
+  --fg: #111827;
+  --muted: #4b5563;
+  --link: #1d4ed8;
+  --border: #e5e7eb;
+  --card: #f3f4f6;
+}
 
-  function getDefault() {
-    return (window.__COLOR_MODE_DEFAULT__ || "auto").toLowerCase();
-  }
+/* Dark mode */
+html[data-theme="dark"] {
+  --bg: #0b1220;
+  --fg: #e5e7eb;
+  --muted: #a1a1aa;
+  --link: #93c5fd;
+  --border: #1f2937;
+  --card: #111827;
+}
 
-  function getMode() {
-    return (localStorage.getItem(storageKey) || getDefault()).toLowerCase();
-  }
+body {
+  background: var(--bg);
+  color: var(--fg);
+}
 
-  function setMode(mode) {
-    localStorage.setItem(storageKey, mode);
-    apply(mode);
-  }
+a { color: var(--link); }
+hr { border-color: var(--border); }
+table, th, td { border-color: var(--border); }
 
-  // Initialize
-  apply(getMode());
-
-  // Expose API for the toggle button
-  window.__colorMode = { getMode, setMode };
-
-  // Update when OS theme changes (only when in auto)
-  if (window.matchMedia) {
-    window
-      .matchMedia("(prefers-color-scheme: dark)")
-      .addEventListener("change", () => {
-        if (getMode() === "auto") apply("auto");
-      });
-  }
-})();
-
+/* Toggle button */
+.color-mode-toggle {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  display: inline-flex;
+  align-items: center;
+  gap: .5rem;
+  padding: .35rem .6rem;
+  border: 1px solid var(--border);
+  border-radius: .5rem;
+  background: var(--card);
+  color: var(--fg);
+  font-size: 0.9rem;
+  cursor: pointer;
+  z-index: 9999;
+}
