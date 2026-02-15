@@ -44,7 +44,6 @@
         select.addEventListener("change", function (e) {
           window.__colorMode.setMode(e.target.value);
         });
-
         // Keep in sync if something else changes it (another tab, etc.)
         window.addEventListener("storage", function (e) {
           if (e.key === "color-mode") sync();
